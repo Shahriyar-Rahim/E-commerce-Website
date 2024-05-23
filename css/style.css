@@ -399,7 +399,9 @@ footer p {
 
 /* desktop */
 
-@media (min-width:1025)
+@media (min-width:1025){
+
+}
 
 /*Tab view*/
 @media (min-width:769px) and (max-width:4000px){
@@ -407,6 +409,4 @@ footer p {
 
  }
  /* Mobile Devices */
- @media (max-width: 768px){
-
- }
+ @media (max-width:896px){ }

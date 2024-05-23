@@ -395,8 +395,18 @@ footer p {
     color: #f2f2f2;
 }
 
+
+
+/* desktop */
+
+@media (min-width:1025)
+
 /*Tab view*/
 @media (min-width:769px) and (max-width:4000px){
     
+
+ }
+ /* Mobile Devices */
+ @media (max-width: 768px){
 
  }
